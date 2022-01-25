@@ -1,3 +1,7 @@
 .to_null {
 	display: none;
 }
+
+.justShow {
+	display:block;
+}
